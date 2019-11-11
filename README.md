@@ -24,4 +24,7 @@ You can find the codes and slides used by the trainers in this repo.
 |6|[motorcode](motorcode/motorcode.ino)|Sketch to interface L293D/L298N motor driver to Arduino with speed and direction control|
 |7|[configuring_gyro](https://github.com/IEEE-EDS-NSEC/embeddedworkshop1/blob/master/configuring_gyro/configuring_gyro.ino)|Arduino sketch to read accelerometer, gyroscope and temperature sensor data from GY-521 breakout board.|
 |8|[pid_tuner](https://github.com/IEEE-EDS-NSEC/embeddedworkshop1/blob/master/pid_tuner/pid_tuner.ino)|Arduino sketch to see PID in action. It's the program for the line follower bot.|
-|**`Bonus`**|[chatoveruart](https://github.com/forkbomb-666/chatoveruart)|Implementation of duplex chat over UART using 2 arduinos.|
+
+#### Bonus Resources
+
+[chatoveruart](https://github.com/forkbomb-666/chatoveruart): Implementation of duplex chat over UART using 2 arduinos.
